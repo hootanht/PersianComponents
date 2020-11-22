@@ -16,8 +16,8 @@
     <Copyright>Copyright © Hootan Hemmati 2020</Copyright>
     <Description>A set of useful UI-Components (HtmlHelper) for ASP.NET Core MVC based-on Popular JavaScript Plugins</Description>
     <PackageTags></PackageTags>
-    <PackageProjectUrl>https://github.com/mjebrahimi/DNZ.MvcComponents</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/mjebrahimi/DNZ.MvcComponents</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/hootanht/PersianComponents</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/hootanht/PersianComponents</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
