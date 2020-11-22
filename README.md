@@ -4,6 +4,16 @@ A set of useful UI-Components (HtmlHelper) for ASP.NET Core MVC based-on Popular
 
 ## Components
 
+| Target | Branch | Version |
+| ------ | ------ | ------ |
+| Github | master | v1.0.0 | 
+
+
+## Persian Identity Public Version
+| Target | Branch | Version | Download link | Total downloads | GitHub Actions |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Nuget | master | v1.0.0 | [![NuGet](https://img.shields.io/nuget/v/PersianComponents.svg)](https://www.nuget.org/packages/PersianComponents) | [![NuGet downloads](https://img.shields.io/nuget/dt/PersianComponents.svg)](https://www.nuget.org/packages/PersianComponents) | <a href="https://github.com/hootanht/PersianComponents"><img alt="GitHub Actions status" src="https://github.com/hootanht/PersianComponents/workflows/.NET Core/badge.svg"></a> |
+
 - [Select2](https://select2.org/)
 - [CKEditor](https://ckeditor.com/)
 - [DataTables](https://datatables.net/)
