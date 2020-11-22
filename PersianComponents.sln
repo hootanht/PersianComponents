@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersianComponents", "src\PersianComponents.csproj", "{FEE0AE78-0D83-4B23-BE44-707D61285550}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersianComponents.Demo", "demo\DNZ.MvcComponents.Demo\PersianComponents.Demo.csproj", "{7A0E2D05-FEA2-4299-B2B7-D3FE17806684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersianComponents.Demo", "demo\PersianComponents.Demo\PersianComponents.Demo.csproj", "{B3AF3DB2-955E-4EFF-BB70-D895304E5FE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{FEE0AE78-0D83-4B23-BE44-707D61285550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE0AE78-0D83-4B23-BE44-707D61285550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE0AE78-0D83-4B23-BE44-707D61285550}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A0E2D05-FEA2-4299-B2B7-D3FE17806684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A0E2D05-FEA2-4299-B2B7-D3FE17806684}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A0E2D05-FEA2-4299-B2B7-D3FE17806684}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A0E2D05-FEA2-4299-B2B7-D3FE17806684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AF3DB2-955E-4EFF-BB70-D895304E5FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AF3DB2-955E-4EFF-BB70-D895304E5FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AF3DB2-955E-4EFF-BB70-D895304E5FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AF3DB2-955E-4EFF-BB70-D895304E5FE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
