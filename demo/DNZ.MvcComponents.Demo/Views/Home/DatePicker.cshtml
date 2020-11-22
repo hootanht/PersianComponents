@@ -1,0 +1,36 @@
+﻿@model TestViewModel
+@{
+    ViewData["Title"] = "DatePicker";
+}
+
+<h2>Persian DatePicker</h2>
+<div>
+    @Html.LabelFor(p => p.BirthDate)
+    <div>
+        @Html.PersianDatePicker("date1")
+    </div>
+</div>
+
+<h2>Persian DateTimePicker</h2>
+<div>
+    @Html.LabelFor(p => p.BirthDate)
+    <div>
+        @Html.PersianDateTimePicker("date2")
+    </div>
+</div>
+
+<h2>Persian DateRangePicker</h2>
+<div>
+    @Html.LabelFor(p => p.BirthDate)
+    <div>
+        @Html.PersianDateRangePicker("date3")
+    </div>
+</div>
+
+<h2>Persian DateTimeRangePicker</h2>
+<div>
+    @Html.LabelFor(p => p.BirthDate)
+    <div>
+        @Html.PersianDateTimeRangePicker("date4")
+    </div>
+</div>
